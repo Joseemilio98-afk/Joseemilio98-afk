@@ -7,8 +7,8 @@ Olá, eu sou José Emilio 👋
 📚 Atualmente estudando APIs, banco de dados e automação  
 🚀 Buscando desenvolver projetos reais e evoluir como desenvolvedor
 
-## Tecnologias
-- Python
-- SQL
-- Git/GitHub
-- C++
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode" />
+</p>
