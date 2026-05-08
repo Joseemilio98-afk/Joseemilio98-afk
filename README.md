@@ -10,5 +10,5 @@ Olá, eu sou José Emilio 👋
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,github,vscode" />
 </p>
