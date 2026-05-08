@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Joseemilio98-afk/Joseemilio98-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou José Emilio 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em Python, SQL e desenvolvimento back-end  
+📚 Atualmente estudando APIs, banco de dados e automação  
+🚀 Buscando desenvolver projetos reais e evoluir como desenvolvedor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- Python
+- SQL
+- Git/GitHub
+- C++
